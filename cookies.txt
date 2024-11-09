@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+youtube-aovivo.com	TRUE	/	FALSE	1999999999	X_CACHE_KEY	fe316daef8d70198a4a964b5e2cacb1f
+
